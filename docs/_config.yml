@@ -1,0 +1,13 @@
+title: Weekly Security & IT News
+description: "PKI・耐量子暗号・サイバーセキュリティ・AI業界の週次ニュースサマリー（日本語）"
+lang: ja
+theme: minima
+
+minima:
+  skin: classic
+
+header_pages:
+  - index.md
+
+plugins:
+  - jekyll-seo-tag
